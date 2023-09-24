@@ -1,4 +1,4 @@
-##Changes of PM2.5 from all sources in US(using base plotting)
+##Changes of PM2.5 from all sources in Baltimore City(using base plotting)
 
 ##data load
 NEI <- readRDS('summarySCC_PM25.rds')
